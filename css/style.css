@@ -19,7 +19,7 @@ img{
 .navbar ul .nav-link{
     transition: all 0.5s;
     font-size:larger;
-    font-weight: 600;
+    font-weight: 500;
 }
 .home{
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../imges/saudai1.jpg);
